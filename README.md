@@ -1,16 +1,16 @@
-  Word Count Program Using Map And Reduce
+### EX 6 A: Word Count Program Using Map And Reduce
 
 
 
 
-Aim:
+## Aim:
 
 
 To execute a Word Count Program Using Map And Reduce
 
 
 
-Procedure:
+## Procedure:
 
 1.   Analyze the input file content
 2.   Develop the code
@@ -24,7 +24,7 @@ b.   Writing a reduce function c.   Writing the Driver class
 
 
 
-Program: WordCount.java
+## Program: WordCount.java
 
 
 
@@ -160,7 +160,7 @@ root@a4cseh160:/#hdfsdfs -rm -R /user/out.txt
 
 
 
-Result:
+### Result:
 
 Thus the numbers of words were counted successfully by the use of Map and Reduce tasks.
 
@@ -190,6 +190,7 @@ Review Questions:
 
 4 What is HBase, Pig, Zooeeper and Hive?
 	HBase - Is a NoSQL database on top of HDFS (hadoop distributed file system which is the file system and core component of Hadoop). Hive - Is an ecosystem/component of Hadoop which is similar to SQL to handle mostly structured data. Pig - Is an ecosystem/component of Hadoop which is a kind of scripting language
+
 
 
 
